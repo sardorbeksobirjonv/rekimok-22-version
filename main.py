@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-TOKEN = "8040959097:AAEgUYdsbFboZDQ2JBrRprDKCQROC5KP3CA"  # <-- TOKEN ni xavfsizlik uchun o'zgartiring
+TOKEN = "8528647202:AAHrcOe4Zg6lAaxQweqxiVqljXMuqsD6da8"  # <-- TOKEN ni xavfsizlik uchun o'zgartiring
 
 # ===== States =====
 TIL, MINTQA, MENU, BOLM, LINK, MATN, VAQT, TAKROR, OLDINDAN, TAHRIR, EXIT_EDIT, YORDAM = range(12)
